@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "Bad Sweet Trap",
+  "base_artist": "LiSA",
+  "createdAt": "2026-02-16T03:07:50.446087Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bad Sweet Trap",
+      "artist": "LiSA",
+      "has_synced": false,
+      "path": "select/01_Bad_Sweet_Trap_LiSA.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Bad Sweet Trap (Live at Toyosu Pit 2015)",
+      "artist": "LiSA",
+      "has_synced": true,
+      "path": "select/02_Bad_Sweet_Trap_(Live_at_Toyosu_Pit_2015)_LiSA.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Bad Sweet Trap",
+      "artist": "LiSA",
+      "has_synced": true,
+      "path": "select/03_Bad_Sweet_Trap_LiSA.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "10. Bad sweet trap",
+      "artist": "LiSA",
+      "has_synced": false,
+      "path": "select/04_10._Bad_sweet_trap_LiSA.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Bad Sweet Trap  (COCKTAiL PARTY [SWEET] Live Version)",
+      "artist": "LiSA",
+      "has_synced": true,
+      "path": "select/05_Bad_Sweet_Trap_(COCKTAiL_PARTY_[SWEET]_Live_Version)_LiSA.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Bad Sweet Trap",
+      "artist": "LiSA",
+      "has_synced": false,
+      "path": "select/pl_01_Bad_Sweet_Trap_LiSA.txt"
+    }
+  ]
+}
